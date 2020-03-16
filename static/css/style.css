@@ -131,7 +131,7 @@ footer {
 }
 
 p {
-    line-height: 1.7;
+    line-height: 1.6;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -165,7 +165,9 @@ progress::-moz-progress-value {
     line-height: 2;
 }
 
-
+.ol-items{
+ margin-top: 10px;
+}
 
 .me {
     text-align: center;
@@ -231,9 +233,9 @@ progress::-moz-progress-value {
     padding: 20px;
 
 }
-.education{
+/* .education{
     margin-top: 16px;
-}
+} */
 .info-header:hover {
     background-color: #d4dee4;
 }
